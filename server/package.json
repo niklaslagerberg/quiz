@@ -1,0 +1,19 @@
+{
+  "name": "quiz",
+  "version": "1.0.0",
+  "description": "quiz engine",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --inspect index.js"
+  },
+  "author": "nl",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2"
+  },
+  "devDependencies": {
+    "flightplan": "^0.6.17",
+    "fly": "^2.0.6"
+  }
+}
